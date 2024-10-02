@@ -2,7 +2,7 @@
 - 👀 I love everything in Python and Typescript ecosystem
 - 🌱 I love to build and design applications
 - 💞️ Love collaborating on open source projects
-- 📫 Need help , reach out to me on douglasbiomed@gmail.com
+- 📫 Need help , reach out to me on douglasbiomed3@gmail.com
 
 <!---
 kowalski21/kowalski21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
